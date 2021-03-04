@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Mai Hương</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Xin chào, mình là Mai Hương.
+        \n\nTôi cao 1m63, nặng 45kg
+        \n\nHiện tại tôi đang học tại trường đại học Công nghệ thông tin và Truyền thông Việt - Hàn.
+        \nSinh hoạt tại lớp 19it2 và đang học nghành Công nghệ thông tin
+        \n\nTôi là người khá thân thiện với mọi người, nhưng cũng khá nhút nhát khi đứng trước đám đông.
+        \nBởi vì khi đứng trước đám đông có bao nhiêu là ánh mắt đang theo dõi mình nên tôi thường
+        \nkhông tự tin khi đứng trước đám đông. Cái điều mà tôi muốn thay đổi đó chính là phải tự tin hơn
+        \n không rụt rè, tự ti nữa...
+        \n\n Cảm ơn mọi người đã xem tiểu sử của mình:))
+    </string>
+</resources>
